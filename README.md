@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning code for website base (Native PHP, Framework PHP)
 - 💞️ I’m looking to collaborate on website development
-- 📫 How to reach me by email to : ekoari[dot]st3[at]gmail[dot]com
+- 📫 How to reach me : https://t.me/eas4team
 
 <!---
 eas4team/eas4team is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
