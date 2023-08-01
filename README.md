@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Eko Ari Septiyono @eas4team
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning code for website
-- 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me : https://t.me/eas4team
 
 <!---
