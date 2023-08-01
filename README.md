@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eko Ari Septiyono @eas4team
-- 👀 I’m interested in Computer
+- 👀 I’m interested in Computer and Communication
 - 📫 How to reach me : https://t.me/eas4team
 
 <!---
